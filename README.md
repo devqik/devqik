@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Youssef Hussein
 - 👀 I’m a DevOps engineer
-- 🌱 I’m currently learning Kubernetes and Automated Testing
 - 📫 You can reach me on: https://www.linkedin.com/in/yhussein
