@@ -6,7 +6,7 @@
 - :roll_eyes: Phylosophically awkward.
 - :heart: Husband of a talented artist.
 
-## My Technical Intrests
+## My Technical Interests
 
 - I like to explore new trends and learn new technologies.
 - My DevOps stack is docker, jenkins, AWS, Vagrant, Terraform.
