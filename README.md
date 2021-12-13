@@ -3,7 +3,7 @@
 - :computer: A former Front-end team lead.
 - :satellite: Tech enthusiast.
 - :ringed_planet: Homemade astrophysicist.
-- :roll_eyes: Phylosophically awkward.
+- :roll_eyes: Philosophically awkward.
 - :heart: Husband of a talented artist.
 
 ## My Technical Interests
