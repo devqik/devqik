@@ -15,7 +15,7 @@
 </br>
 </br>
 
-- :nerd_face: I'm Youssef, DevOps Engineer from Cairo, Egypt.
+- :nerd_face: DevOps Engineer from Cairo, Egypt.
 - :computer: A former Front-end team lead.
 - :satellite: Tech enthusiast.
 - :ringed_planet: Homemade astrophysicist.
