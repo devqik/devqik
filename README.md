@@ -20,12 +20,17 @@
 - :roll_eyes: Philosophically awkward.
 - :heart: Husband of a talented artist.
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 ## My Technical Interests
 
 - I like to explore new trends and learn new technologies.
 - My DevOps stack is docker, jenkins, AWS, Vagrant, Terraform.
 - My Front-end arsenal is Angular and Typescript.
 - I'm on track for learning more about Prometheus, Circile CI and Selenium.
+
+
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=yorki404&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
 
 
 ## 📫 Feel free to drop me a message
