@@ -1,4 +1,6 @@
-## Hey there, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="left" alt="Youssef Hussein | Github" width="100%" src="./assets/youssef-hussein.png" />
+
+</br>
 
 <a href="https://twitter.com/yorki404">
   <img align="left" alt="Youssef Hussein | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
