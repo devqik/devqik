@@ -1,4 +1,15 @@
-## 👋 Hey there, welcome!
+## Hey there, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://twitter.com/yorki404">
+  <img align="left" alt="Youssef Hussein | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yhussein/">
+  <img align="left" alt="Youssef's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/yorki404">
+  <img align="left" alt="Youssef's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
 - :nerd_face: I'm Youssef, DevOps Engineer from Cairo, Egypt.
 - :computer: A former Front-end team lead.
 - :satellite: Tech enthusiast.
