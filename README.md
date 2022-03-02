@@ -1,5 +1,3 @@
-[![Hi I'm Youssef](./assets/GitHubHeader.png)](https://youssefhussein.com)
-
 ## 👋 Hey there, welcome!
 - :nerd_face: I'm Youssef, DevOps Engineer from Cairo, Egypt.
 - :computer: A former Front-end team lead.
