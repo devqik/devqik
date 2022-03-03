@@ -33,6 +33,80 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2054%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 31 Contributions in the Year 2022
+ > 
+> 📦 11.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
+🌆 Daytime    44 commits     ███████████░░░░░░░░░░░░░░   44.0% 
+🌃 Evening    32 commits     ████████░░░░░░░░░░░░░░░░░   32.0% 
+🌙 Night      23 commits     █████░░░░░░░░░░░░░░░░░░░░   23.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Wednesday    28 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
+Thursday     33 commits     ████████░░░░░░░░░░░░░░░░░   33.0% 
+Friday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
+HCL                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
+PHP                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/yorki404/yorki404/main/charts/bar_graph.png) 
+
+
+ Last Updated on 03/03/2022 15:32:37 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Feel free to drop me a message
