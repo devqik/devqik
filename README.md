@@ -33,7 +33,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-314-blue)
 
@@ -107,7 +107,7 @@ PHP                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/yorki404/yorki404/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/03/2022 03:17:31 UTC
+ Last Updated on 10/03/2022 12:20:46 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Feel free to drop me a message
