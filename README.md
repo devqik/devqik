@@ -18,7 +18,7 @@
 - :roll_eyes: Philosophically awkward.
 - :heart: Husband of a talented artist.
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## My Technical Interests
 
@@ -27,78 +27,13 @@
 - My Front-end arsenal is Angular and Typescript.
 - I'm on track for learning more about Prometheus, Circile CI and Selenium.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yorki404)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=yorki404&theme=dark&show_icons=true)](https://github.com/yorki404)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%202%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 48 Contributions in the Year 2022
- > 
-> 📦 11.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
-🌆 Daytime    67 commits     █████████████░░░░░░░░░░░░   52.76% 
-🌃 Evening    35 commits     ███████░░░░░░░░░░░░░░░░░░   27.56% 
-🌙 Night      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.11%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Tuesday      22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Wednesday    32 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
-Thursday     33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.98% 
-Friday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.3%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-YAML                     3 hrs 49 mins       ██████████████████████░░░   89.46% 
-Smarty                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
-
-🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      4 hrs 16 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
-HCL                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
-PHP                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
-
-```
-
 
 
 <!--END_SECTION:waka-->
