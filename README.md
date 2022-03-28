@@ -27,7 +27,6 @@
 - My Front-end arsenal is Angular and Typescript.
 - I'm on track for learning more about Prometheus, Circile CI and Selenium.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yorki404)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=yorki404&theme=dark&show_icons=true)](https://github.com/yorki404)
 
@@ -37,6 +36,8 @@
 
 
 <!--END_SECTION:waka-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yorki404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Feel free to drop me a message
 - You can reach me on: https://www.linkedin.com/in/yhussein
