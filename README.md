@@ -105,7 +105,5 @@ PHP                      1 repo              ████████░░░�
 
 <!--END_SECTION:waka-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yorki404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 Feel free to drop me a message
 - You can reach me on: https://www.linkedin.com/in/yhussein
