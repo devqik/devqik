@@ -33,7 +33,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,8 +63,8 @@
 ```text
 Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
 Tuesday      41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-Thursday     76 commits     ██████░░░░░░░░░░░░░░░░░░░   26.12% 
+Wednesday    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
+Thursday     80 commits     ██████░░░░░░░░░░░░░░░░░░░   27.49% 
 Friday       70 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
