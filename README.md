@@ -33,7 +33,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -78,14 +78,15 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     1 hr 4 mins         ████████████████░░░░░░░░░   65.08% 
-Terraform                34 mins             ████████░░░░░░░░░░░░░░░░░   34.92%
+YAML                     5 hrs 57 mins       ██████████████████████░░░   91.08% 
+Terraform                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 32 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.0%
+Mac                      6 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
