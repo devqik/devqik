@@ -18,8 +18,6 @@
 - :roll_eyes: Philosophically awkward.
 - :heart: Husband of a talented artist.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## My Technical Interests
 
 - I like to explore new trends and learn new technologies.
