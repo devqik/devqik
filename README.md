@@ -11,6 +11,9 @@
 
 </br>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 - :nerd_face: DevOps Engineer from Cairo, Egypt.
 - :computer: A former Front-end team lead.
 - :satellite: Tech enthusiast.
@@ -24,9 +27,6 @@
 - My DevOps stack is docker, jenkins, AWS, Vagrant, Terraform.
 - My Front-end arsenal is Angular and Typescript.
 - I'm on track for learning more about Prometheus, Circile CI and Selenium.
-
-
-[![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=yorki404&theme=dark&show_icons=true)](https://github.com/yorki404)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
