@@ -31,7 +31,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,14 +74,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     5 hrs 56 mins       ███████████████████░░░░░░   77.49 % 
-Bash                     1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+YAML                     3 hrs 19 mins       █████████████████░░░░░░░░   68.10 % 
+Bash                     1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Terraform                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
