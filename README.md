@@ -24,9 +24,9 @@
 ## My Technical Interests
 
 - I like to explore new trends and learn new technologies.
-- My DevOps stack is docker, jenkins, AWS, Vagrant, Terraform.
+- My DevOps stack is Docker, Jenkins, AWS, Vagrant, Terraform, Kubernetes and CircleCI.
 - My Front-end arsenal is Angular and Typescript.
-- I'm on track for learning more about Prometheus, Circile CI and Selenium.
+- I'm on track for learning more about Technical Architecture, PMP and Python programming for DevOps.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
