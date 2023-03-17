@@ -31,15 +31,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 11.8 kB Used in GitHub's Storage 
  > 
-> 🏆 179 Contributions in the Year 2023
+> 🏆 180 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
