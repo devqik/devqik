@@ -31,15 +31,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorki404&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 11.8 kB Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2023
+> 🏆 181 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +87,7 @@ VS Code                  7 hrs 38 mins       ███████████�
 Mac                      7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in Ruby** 
 
 ```text
 Vue                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
