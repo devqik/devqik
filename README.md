@@ -73,14 +73,13 @@ Sunday                   23 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Terraform                1 hr 23 mins        █████████████████████████   99.91 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Ruby** 
