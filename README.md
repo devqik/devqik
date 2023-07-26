@@ -30,9 +30,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
