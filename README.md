@@ -25,7 +25,7 @@
 - I like to explore new trends and learn new technologies.
 - My DevOps stack is Docker, Jenkins, AWS, Vagrant, Terraform, Kubernetes and CircleCI.
 - My Front-end arsenal is Angular and Typescript.
-- I'm on track for learning more about Technical Architecture, PMP and Python programming for DevOps.
+- I'm on track for learning more about Technical Architecture.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
