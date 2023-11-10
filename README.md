@@ -31,13 +31,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.8 kB Used in GitHub's Storage 
+> 📦 12.9 kB Used in GitHub's Storage 
  > 
 > 🏆 626 Contributions in the Year 2023
  > 
@@ -74,17 +74,15 @@ Sunday                   23 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Terraform                5 hrs 46 mins       ███████████████████████░░   92.97 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Terraform                2 hrs 51 mins       ████████████████████████░   94.88 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
