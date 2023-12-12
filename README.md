@@ -31,7 +31,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,7 +39,7 @@
 
 > 📦 12.9 kB Used in GitHub's Storage 
  > 
-> 🏆 661 Contributions in the Year 2023
+> 🏆 665 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,14 +74,14 @@ Sunday                   23 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Terraform                3 hrs 50 mins       █████████████████████████   98.36 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Terraform                4 hrs 3 mins        █████████████████████░░░░   85.37 % 
+YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
