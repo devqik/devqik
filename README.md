@@ -31,7 +31,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,7 +39,7 @@
 
 > 📦 12.9 kB Used in GitHub's Storage 
  > 
-> 🏆 679 Contributions in the Year 2023
+> 🏆 682 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@ Mac                      3 hrs 42 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-HCL                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Smarty                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+HCL                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Smarty                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
