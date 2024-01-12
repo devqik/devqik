@@ -11,7 +11,7 @@
 
 </br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 - :nerd_face: DevOps Engineer from Cairo, Egypt.
@@ -24,11 +24,11 @@
 ## My Technical Interests
 
 - I like to explore new trends and learn new technologies.
-- My DevOps stack is Docker, Jenkins, AWS, Vagrant, Terraform, Kubernetes and CircleCI.
+- My DevOps stack is Docker, Kubernetes, AWS, Terraform and CircleCI.
 - My Front-end arsenal is Angular and Typescript.
 - I'm on track for learning more about Technical Architecture.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2019%20mins-blue)
