@@ -28,13 +28,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 326 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
