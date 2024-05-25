@@ -28,13 +28,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-770%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 330 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,11 +71,9 @@ Sunday                   29 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     3 hrs 42 mins       ████████████████████████░   95.69 % 
-Terraform                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+YAML                     3 hrs 51 mins       █████████████████████████   99.64 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
 VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
