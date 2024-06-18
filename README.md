@@ -28,15 +28,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.2 kB Used in GitHub's Storage 
- > 
-> 🏆 376 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,15 +69,15 @@ Sunday                   29 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     2 hrs 15 mins       █████████████████░░░░░░░░   67.06 % 
-Terraform                1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.65 % 
+YAML                     1 hr 44 mins        █████████████░░░░░░░░░░░░   51.51 % 
+Terraform                1 hr 37 mins        ████████████░░░░░░░░░░░░░   48.21 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
