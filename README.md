@@ -36,6 +36,8 @@
 
 > 📦 14.6 kB Used in GitHub's Storage 
  > 
+> 🏆 572 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
