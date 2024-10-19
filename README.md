@@ -28,7 +28,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,13 +71,16 @@ Sunday                   31 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Terraform                19 mins             █████████████████████████   100.00 % 
+Terraform                19 mins             ███████████████████████░░   90.28 % 
+Rust                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  19 mins             ███████████████████████░░   90.28 % 
+Cursor                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
