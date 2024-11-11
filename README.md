@@ -36,7 +36,7 @@
 
 > 📦 14.7 kB Used in GitHub's Storage 
  > 
-> 🏆 597 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,16 +71,13 @@ Sunday                   26 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       32 mins             ████████████░░░░░░░░░░░░░   48.96 % 
-Terraform                31 mins             ████████████░░░░░░░░░░░░░   48.09 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
