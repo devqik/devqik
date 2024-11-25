@@ -28,13 +28,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 595 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,13 +71,14 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ██████████████████░░░░░░░   70.08 % 
+Other                    0 secs              ███████░░░░░░░░░░░░░░░░░░   29.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
