@@ -71,14 +71,13 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     17 mins             ██████████████████████░░░   87.57 % 
-Go                       2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
