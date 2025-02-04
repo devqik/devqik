@@ -3,7 +3,7 @@
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhussein/)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/devqik_?style=for-the-badge&logo=X&logoColor=White&labelColor=White)](https://twitter.com/devqik_)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/devqikHQ?style=for-the-badge&logo=X&logoColor=White&labelColor=White)](https://twitter.com/devqikHQ)
 [![Instagram](https://img.shields.io/badge/devqik-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devqik)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devqik)
 
