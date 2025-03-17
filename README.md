@@ -71,14 +71,13 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Rust                     12 mins             ████████████████████░░░░░   78.47 % 
-TOML                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
