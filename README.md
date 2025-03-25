@@ -28,7 +28,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,7 +36,7 @@
 
 > 📦 18.0 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2025
+> 🏆 86 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,13 +71,17 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                1 hr 51 mins        ████████████████░░░░░░░░░   64.34 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
