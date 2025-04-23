@@ -28,7 +28,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-931%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,13 +71,17 @@ Sunday                   40 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 55 mins        ███████████████░░░░░░░░░░   59.84 % 
+TOML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
