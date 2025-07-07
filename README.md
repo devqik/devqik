@@ -36,8 +36,6 @@
 
 > 📦 22.5 kB Used in GitHub's Storage 
  > 
-> 🏆 255 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
