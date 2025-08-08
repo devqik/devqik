@@ -11,7 +11,11 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-engineer from Africa  💻  worked for a while in Europe, currently living in Asia 📡  Building CLI tools when i get bored ❤️ husband & father
+</br>
+
+## Who Am I?
+
+An engineer from Africa  💻  worked for a while in Europe, currently living in Asia 📡  Building CLI & dev tools when i get bored ❤️ husband & father
 
 ## My Technical Playground
 
