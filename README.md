@@ -25,7 +25,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 - Building CD pipelines that no one understands, using CircleCI, GitlabCI & Github Actions
 - Creating non-usable code with Bash & Rust
 
-  What else?? I enjoy everything tech & software engineering with hyper sensetivity towards bad PRs and unexpected down time.
+  What else?? I enjoy everything tech & software engineering with hyper sensitivity towards bad PRs and unexpected down time.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
