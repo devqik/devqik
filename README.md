@@ -17,6 +17,8 @@
 
 An engineer from Africa  💻  worked for a while in Europe, currently living in Asia 📡  Building CLI & dev tools when i get bored ❤️ husband & father
 
+</br>
+
 ## My Technical Playground
 
 - I enjoy breaking stuff hosted on AWS, Azure and GCP
