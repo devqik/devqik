@@ -11,19 +11,15 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- :nerd_face: DevOps Engineer from Cairo, Egypt.
-- :computer: A former Front-end team lead.
-- :satellite: Tech enthusiast.
-- :ringed_planet: Homemade astrophysicist.
-- :roll_eyes: Philosophically awkward.
-- :heart: Husband of a talented artist.
+engineer from Africa  💻  worked for a while in Europe, currently living in Asia 📡  Building CLI tools when i get bored ❤️ husband & father
 
-## My Technical Interests
+## My Technical Playground
 
-- I like to explore new trends and learn new technologies.
-- My DevOps stack is Docker, Kubernetes, AWS, Terraform and CircleCI.
-- My Front-end arsenal is Angular and Typescript.
-- I'm on track for learning more about Technical Architecture.
+- I enjoy breaking stuff hosted on AWS, Azure and GCP
+- Building CD pipelines that no one understands, using CircleCI, GitlabCI & Github Actions
+- Creating non-usable code with Bash & Rust
+
+  What else?? I enjoy everything tech & software engineering with hyper sensetivity towards bad PRs and unexpected down time.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
