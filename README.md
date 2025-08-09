@@ -30,13 +30,13 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 24.9 kB Used in GitHub's Storage 
+> 📦 25.0 kB Used in GitHub's Storage 
  > 
 > 🏆 377 Contributions in the Year 2025
  > 
@@ -73,17 +73,17 @@ Sunday                   63 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.34 % 
-Rust                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Text                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Terraform                40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+YAML                     2 hrs               ███████████████░░░░░░░░░░   59.10 % 
+Text                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 27 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HCL** 
