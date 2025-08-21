@@ -30,7 +30,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -38,7 +38,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 > 📦 25.3 kB Used in GitHub's Storage 
  > 
-> 🏆 436 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,17 +73,17 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Rust                     6 hrs 55 mins       ██████████████░░░░░░░░░░░   55.14 % 
-YAML                     3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Terraform                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+YAML                     3 hrs 13 mins       █████████████░░░░░░░░░░░░   51.17 % 
+Docker                   1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Rust                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Terraform                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 32 mins      █████████████████████████   100.00 % 
+Cursor                   6 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HCL** 
