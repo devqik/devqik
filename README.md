@@ -38,7 +38,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 > 📦 25.3 kB Used in GitHub's Storage 
  > 
-> 🏆 439 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
