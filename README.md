@@ -36,7 +36,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 **🐱 My GitHub Data** 
 
-> 📦 25.4 kB Used in GitHub's Storage 
+> 📦 25.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
