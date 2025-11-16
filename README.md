@@ -30,8 +30,6 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -46,44 +44,6 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-🌆 Daytime                263 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌃 Evening                499 commits         ██████████████░░░░░░░░░░░   55.38 % 
-🌙 Night                  102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  234 commits         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Wednesday                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Thursday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Friday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-TypeScript               12 mins             ████████████░░░░░░░░░░░░░   47.65 % 
-YAML                     10 mins             ██████████░░░░░░░░░░░░░░░   40.41 % 
-Terraform                3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-
-🔥 Editors: 
-Cursor                   26 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HCL** 
 
 ```text
