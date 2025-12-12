@@ -30,7 +30,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,13 +73,14 @@ Sunday                   81 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               14 mins             █████████████████████████   100.00 % 
+TypeScript               19 mins             █████████████████████████   99.86 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Cursor                   14 mins             █████████████████████████   100.00 % 
+Cursor                   19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HCL** 
