@@ -73,14 +73,13 @@ Sunday                   81 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-HTML                     5 mins              ████████████████░░░░░░░░░   62.07 % 
-TypeScript               3 mins              █████████░░░░░░░░░░░░░░░░   37.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HCL** 
