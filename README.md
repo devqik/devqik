@@ -30,6 +30,8 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -44,6 +46,43 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🌆 Daytime                265 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌃 Evening                499 commits         ██████████████░░░░░░░░░░░   55.26 % 
+🌙 Night                  102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Tuesday                  235 commits         ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Wednesday                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Thursday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Friday                   145 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+JSON                     4 mins              ██████████████████░░░░░░░   70.95 % 
+TypeScript               2 mins              ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+
+🔥 Editors: 
+Cursor                   6 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HCL** 
 
 ```text
