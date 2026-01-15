@@ -30,13 +30,13 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 25.6 kB Used in GitHub's Storage 
+> 📦 25.7 kB Used in GitHub's Storage 
  > 
 > 🏆 17 Contributions in the Year 2026
  > 
@@ -73,16 +73,17 @@ Sunday                   92 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 46 mins       ████████████████████████░   95.67 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               4 hrs 10 mins       ███████████████████████░░   90.05 % 
+Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 56 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HCL** 
