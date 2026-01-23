@@ -30,7 +30,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -38,7 +38,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 > 📦 29.4 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,17 +73,17 @@ Sunday                   92 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     59 mins             ███████████████░░░░░░░░░░   58.70 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Ruby                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Git Config               38 mins             ███████████████░░░░░░░░░░   58.82 % 
+Rust                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-Cursor                   1 hr 40 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
