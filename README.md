@@ -73,14 +73,13 @@ Sunday                   92 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     3 mins              ██████████████████████░░░   88.66 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
