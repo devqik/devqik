@@ -30,7 +30,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C074%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C074%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,21 +49,21 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-🌆 Daytime                324 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-🌃 Evening                633 commits         ██████████████░░░░░░░░░░░   57.29 % 
-🌙 Night                  106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+🌆 Daytime                326 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+🌃 Evening                633 commits         ██████████████░░░░░░░░░░░   57.18 % 
+🌙 Night                  106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Tuesday                  311 commits         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Thursday                 173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Saturday                 107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Sunday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Tuesday                  311 commits         ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Thursday                 173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Saturday                 107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Sunday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 
 
