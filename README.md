@@ -30,7 +30,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C078%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -38,7 +38,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 > 📦 35.2 kB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 89 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,17 +73,17 @@ Sunday                   94 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-HTML                     1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-SQL                      1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-SCSS                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+HTML                     2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+TypeScript               2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+SQL                      1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+SCSS                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 32 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
