@@ -36,7 +36,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 **🐱 My GitHub Data** 
 
-> 📦 35.4 kB Used in GitHub's Storage 
+> 📦 35.3 kB Used in GitHub's Storage 
  > 
 > 🏆 97 Contributions in the Year 2026
  > 
