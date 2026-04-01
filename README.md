@@ -85,11 +85,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Rust                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+HCL                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
