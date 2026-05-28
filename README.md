@@ -30,6 +30,8 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2027%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,6 +46,42 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+🌆 Daytime                369 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌃 Evening                664 commits         ██████████████░░░░░░░░░░░   55.85 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Thursday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Friday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
