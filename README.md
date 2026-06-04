@@ -46,6 +46,46 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+🌆 Daytime                369 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌃 Evening                664 commits         ██████████████░░░░░░░░░░░   55.85 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Thursday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Friday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+TypeScript               15 mins             █████████████████░░░░░░░░   68.21 % 
+Bash                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TOML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+
+🔥 Editors: 
+VS Code                  22 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      22 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
