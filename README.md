@@ -73,15 +73,13 @@ Sunday                   108 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               48 mins             ████████████████████████░   97.56 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
