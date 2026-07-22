@@ -44,26 +44,26 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 38 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-🌆 Daytime                370 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌃 Evening                665 commits         ██████████████░░░░░░░░░░░   55.84 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+🌆 Daytime                370 commits         ████████░░░░░░░░░░░░░░░░░   31.04 % 
+🌃 Evening                665 commits         ██████████████░░░░░░░░░░░   55.79 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Thursday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Friday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Thursday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Friday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 ```
 
 
@@ -85,11 +85,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Rust                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
