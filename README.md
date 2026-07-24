@@ -30,13 +30,11 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2039%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 35.9 kB Used in GitHub's Storage 
+> 📦 37.1 kB Used in GitHub's Storage 
  > 
 > 🏆 119 Contributions in the Year 2026
  > 
@@ -44,26 +42,26 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 38 Private Repositories 
+> 🔑 39 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-🌆 Daytime                372 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
-🌃 Evening                665 commits         ██████████████░░░░░░░░░░░   55.70 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+🌆 Daytime                372 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌃 Evening                668 commits         ██████████████░░░░░░░░░░░   55.81 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Friday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Friday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 ```
 
 
@@ -85,11 +83,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
