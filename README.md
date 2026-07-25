@@ -30,13 +30,15 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 37.1 kB Used in GitHub's Storage 
+> 📦 37.4 kB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2026
+> 🏆 125 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,21 +49,21 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-🌆 Daytime                372 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
-🌃 Evening                668 commits         ██████████████░░░░░░░░░░░   55.81 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+🌆 Daytime                372 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌃 Evening                669 commits         ██████████████░░░░░░░░░░░   55.80 % 
+🌙 Night                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Friday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Saturday                 112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 ```
 
 
@@ -71,13 +73,17 @@ Sunday                   108 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               44 mins             ██████████████░░░░░░░░░░░   56.78 % 
+HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Git Config               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+SCSS                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 18 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
