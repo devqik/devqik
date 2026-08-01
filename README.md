@@ -75,37 +75,37 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        █████████████░░░░░░░░░░░░   51.27 % 
-HTML                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-SCSS                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+TypeScript               27 mins             ███████████░░░░░░░░░░░░░░   43.74 % 
+HTML                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+SCSS                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 22 mins       █████████████████████████   100.00 % 
+Cursor                   1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (96.71%)
+⏱ AI Coding Time: 1 hr 3 mins (100.0%)
 
-✍️ 7,182 lines written by AI, 7 lines written by hand (99.9% AI-written)
+✍️ 1,323 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 37 AI Prompts
+🧠 2 AI Sessions, 18 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
