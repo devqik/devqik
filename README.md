@@ -30,6 +30,10 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,6 +48,48 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
  > 
 > 🔑 39 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+🌆 Daytime                374 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌃 Evening                669 commits         ██████████████░░░░░░░░░░░   55.70 % 
+🌙 Night                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Tuesday                  325 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Saturday                 112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Sunday                   109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
