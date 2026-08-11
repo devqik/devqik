@@ -30,9 +30,9 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,19 +75,42 @@ Sunday                   105 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    22 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
+TypeScript               22 mins             ██████████░░░░░░░░░░░░░░░   41.76 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Agent                    33 mins             ████████████████░░░░░░░░░   62.65 % 
+Cursor                   19 mins             █████████░░░░░░░░░░░░░░░░   37.35 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 52 mins (98.04%)
+
+✍️ 403 lines written by AI, 2 lines written by hand (99.51% AI-written)
+
+🔤 5,000 Input Tokens, 5,000 Output Tokens
+
+💵 $0.09 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 19 AI Prompts
+
+Sonnet                   306 lines           ███████████████████░░░░░░   74.27 % 
+Grok                     106 lines           ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.51% of written lines came from AI
+📄 Detailed Prompter — average 1,092 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
