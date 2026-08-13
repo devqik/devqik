@@ -75,15 +75,15 @@ Sunday                   105 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Other                    22 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
-TypeScript               22 mins             ██████████░░░░░░░░░░░░░░░   41.76 % 
-HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Other                    22 mins             ███████████░░░░░░░░░░░░░░   42.84 % 
+TypeScript               22 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-Agent                    33 mins             ████████████████░░░░░░░░░   62.65 % 
-Cursor                   19 mins             █████████░░░░░░░░░░░░░░░░   37.35 % 
+Agent                    33 mins             ████████████████░░░░░░░░░   62.69 % 
+Cursor                   19 mins             █████████░░░░░░░░░░░░░░░░   37.31 % 
 
 💻 Operating System: 
 Mac                      53 mins             █████████████████████████   100.00 % 
@@ -96,11 +96,11 @@ Mac                      53 mins             ███████████�
 
 ✍️ 403 lines written by AI, 2 lines written by hand (99.51% AI-written)
 
-🔤 5,000 Input Tokens, 5,000 Output Tokens
+🔤 5,330 Input Tokens, 5,330 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $0.10 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 19 AI Prompts
+🧠 5 AI Sessions, 21 AI Prompts
 
 Sonnet                   306 lines           ███████████████████░░░░░░   74.27 % 
 Grok                     106 lines           ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
@@ -108,8 +108,8 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.51% of written lines came from AI
-📄 Detailed Prompter — average 1,092 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,051 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
