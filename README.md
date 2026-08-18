@@ -75,42 +75,35 @@ Sunday                   105 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Other                    22 mins             ███████████░░░░░░░░░░░░░░   42.84 % 
-TypeScript               22 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
-HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Agent                    33 mins             ████████████████░░░░░░░░░   62.69 % 
-Cursor                   19 mins             █████████░░░░░░░░░░░░░░░░   37.31 % 
+Agent                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (98.04%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
-✍️ 403 lines written by AI, 2 lines written by hand (99.51% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 5,330 Input Tokens, 5,330 Output Tokens
+🔤 330 Input Tokens, 330 Output Tokens
 
-💵 $0.10 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Sonnet                   306 lines           ███████████████████░░░░░░   74.27 % 
-Grok                     106 lines           ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📄 Detailed Prompter — average 1,051 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.48% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 660 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
