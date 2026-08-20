@@ -75,34 +75,35 @@ Sunday                   105 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+Other                    7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Agent                    0 secs              █████████████████████████   100.00 % 
+Cursor                   7 mins              ████████████████████████░   96.38 % 
+Agent                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
+⏱ AI Coding Time: 0 secs (5.93%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 330 Input Tokens, 330 Output Tokens
+🔤 26 Input Tokens, 26 Output Tokens
 
-💵 $0.01 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 660 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 54 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
