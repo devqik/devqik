@@ -56,17 +56,6 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 🌃 Evening                680 commits         ██████████████░░░░░░░░░░░   55.02 % 
 🌙 Night                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Tuesday                  333 commits         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-Wednesday                124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Friday                   216 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Saturday                 118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -89,29 +78,6 @@ Agent                    53 mins             ███████████�
 Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 48 mins (99.49%)
-
-✍️ 1,254 lines written by AI, 1 lines written by hand (99.92% AI-written)
-
-🔤 82,491 Input Tokens, 82,491 Output Tokens
-
-💵 $1.48 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 39 AI Prompts
-
-Sonnet                   1,146 lines         ██████████████████████░░░   87.61 % 
-Grok                     162 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 8,555 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
