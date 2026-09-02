@@ -38,9 +38,9 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 **🐱 My GitHub Data** 
 
-> 📦 37.5 kB Used in GitHub's Storage 
+> 📦 37.6 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2026
+> 🏆 141 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,10 +51,21 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-🌆 Daytime                396 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
-🌃 Evening                680 commits         ██████████████░░░░░░░░░░░   55.02 % 
-🌙 Night                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+🌆 Daytime                435 commits         ████████░░░░░░░░░░░░░░░░░   33.46 % 
+🌃 Evening                702 commits         ██████████████░░░░░░░░░░░   54.00 % 
+🌙 Night                  115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  343 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Friday                   232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Saturday                 126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Sunday                   114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 ```
 
 
@@ -78,6 +89,29 @@ Agent                    53 mins             ███████████�
 Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 48 mins (99.49%)
+
+✍️ 1,254 lines written by AI, 1 lines written by hand (99.92% AI-written)
+
+🔤 82,491 Input Tokens, 82,491 Output Tokens
+
+💵 $1.48 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 39 AI Prompts
+
+Sonnet                   1,146 lines         ██████████████████████░░░   87.61 % 
+Grok                     162 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 8,555 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
