@@ -30,9 +30,9 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,42 +75,42 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ████████████████░░░░░░░░░   62.21 % 
-JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+TypeScript               2 hrs 32 mins       █████████████░░░░░░░░░░░░   51.39 % 
+SCSS                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-Cursor                   55 mins             █████████████░░░░░░░░░░░░   50.95 % 
-Agent                    53 mins             ████████████░░░░░░░░░░░░░   49.05 % 
+Agent                    2 hrs 41 mins       ██████████████░░░░░░░░░░░   54.40 % 
+Cursor                   2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (99.49%)
+⏱ AI Coding Time: 4 hrs 48 mins (96.83%)
 
-✍️ 1,254 lines written by AI, 1 lines written by hand (99.92% AI-written)
+✍️ 3,886 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 82,491 Input Tokens, 82,491 Output Tokens
+🔤 171,740 Input Tokens, 171,740 Output Tokens
 
-💵 $1.48 Estimated AI Cost This Week
+💵 $3.09 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 39 AI Prompts
+🧠 16 AI Sessions, 104 AI Prompts
 
-Sonnet                   1,146 lines         ██████████████████████░░░   87.61 % 
-Grok                     162 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Grok                     2,843 lines         █████████████████░░░░░░░░   68.67 % 
+Sonnet                   1,297 lines         ████████░░░░░░░░░░░░░░░░░   31.33 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 8,555 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 6,892 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
