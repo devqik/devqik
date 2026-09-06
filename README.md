@@ -96,11 +96,11 @@ Mac                      5 hrs 20 mins       ███████████�
 
 ✍️ 4,388 lines written by AI, 3 lines written by hand (99.93% AI-written)
 
-🔤 172,619 Input Tokens, 172,619 Output Tokens
+🔤 172,655 Input Tokens, 172,655 Output Tokens
 
 💵 $3.11 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 110 AI Prompts
+🧠 20 AI Sessions, 111 AI Prompts
 
 Grok                     3,346 lines         ██████████████████░░░░░░░   72.07 % 
 Sonnet                   1,297 lines         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
@@ -108,7 +108,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 6,552 characters per prompt
+📚 Verbose Prompter — average 6,494 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
