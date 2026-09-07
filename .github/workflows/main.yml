@@ -17,3 +17,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_AI_CODING: "False"
