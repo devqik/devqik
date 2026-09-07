@@ -89,30 +89,6 @@ Cursor                   2 hrs 28 mins       ███████████�
 Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 10 mins (97.02%)
-
-✍️ 4,388 lines written by AI, 3 lines written by hand (99.93% AI-written)
-
-🔤 172,655 Input Tokens, 172,655 Output Tokens
-
-💵 $3.11 Estimated AI Cost This Week
-
-🧠 20 AI Sessions, 111 AI Prompts
-
-Grok                     3,346 lines         ██████████████████░░░░░░░   72.07 % 
-Sonnet                   1,297 lines         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 6,494 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
