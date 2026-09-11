@@ -75,18 +75,13 @@ Sunday                   108 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-PowerShell               10 mins             ███████████░░░░░░░░░░░░░░   45.37 % 
-YAML                     7 mins              █████████░░░░░░░░░░░░░░░░   34.28 % 
-Git Config               4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   12 mins             ██████████████░░░░░░░░░░░   55.78 % 
-Agent                    10 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
