@@ -30,9 +30,9 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
@@ -75,16 +75,18 @@ Sunday                   114 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-YAML                     7 mins              ███████████████████░░░░░░   74.33 % 
-Markdown                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               1 hr 58 mins        ████████████████████░░░░░   79.03 % 
+Image (png)              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Image (jpeg)             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-Cursor                   5 mins              █████████████░░░░░░░░░░░░   51.44 % 
-Agent                    5 mins              ████████████░░░░░░░░░░░░░   48.56 % 
+Cursor                   1 hr 44 mins        █████████████████░░░░░░░░   69.63 % 
+Agent                    45 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
