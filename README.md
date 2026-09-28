@@ -30,7 +30,7 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%201%20min-blue?style=flat)
 
@@ -75,18 +75,18 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ██████████████████░░░░░░░   70.58 % 
-HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Image (png)              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Image (jpeg)             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               2 hrs 6 mins        █████████████████░░░░░░░░   66.70 % 
+HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Image (png)              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Cursor                   1 hr 45 mins        ███████████████░░░░░░░░░░   58.62 % 
-Agent                    1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.38 % 
+Cursor                   1 hr 55 mins        ███████████████░░░░░░░░░░   60.89 % 
+Agent                    1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   39.11 % 
 
 💻 Operating System: 
-Mac                      2 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
