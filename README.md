@@ -75,18 +75,17 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        █████████████████░░░░░░░░   66.70 % 
-HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Image (png)              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+HTML                     21 mins             ███████████░░░░░░░░░░░░░░   42.99 % 
+YAML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+TypeScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 
 🔥 Editors: 
-Cursor                   1 hr 55 mins        ███████████████░░░░░░░░░░   60.89 % 
-Agent                    1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   39.11 % 
+Agent                    33 mins             █████████████████░░░░░░░░   68.33 % 
+Cursor                   15 mins             ████████░░░░░░░░░░░░░░░░░   31.67 % 
 
 💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
