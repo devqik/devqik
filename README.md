@@ -38,9 +38,9 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 **🐱 My GitHub Data** 
 
-> 📦 37.7 kB Used in GitHub's Storage 
+> 📦 37.8 kB Used in GitHub's Storage 
  > 
-> 🏆 169 Contributions in the Year 2026
+> 🏆 171 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,20 +52,20 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 
 ```text
 🌞 Morning                57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-🌆 Daytime                448 commits         ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌃 Evening                732 commits         ██████████████░░░░░░░░░░░   54.22 % 
-🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌆 Daytime                450 commits         ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🌃 Evening                732 commits         ██████████████░░░░░░░░░░░   54.14 % 
+🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Tuesday                  377 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Thursday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Friday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Saturday                 130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Tuesday                  377 commits         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Thursday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Friday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Saturday                 130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 
@@ -91,11 +91,11 @@ Mac                      1 hr 13 mins        ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
