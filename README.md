@@ -75,17 +75,15 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         ██████████████████████░░░   88.13 % 
-CSV                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   1 hr 6 mins         ███████████████████████░░   93.39 % 
+CSV                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Cursor                   1 hr 14 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
