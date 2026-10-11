@@ -51,21 +51,21 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-🌆 Daytime                450 commits         ████████░░░░░░░░░░░░░░░░░   33.28 % 
-🌃 Evening                732 commits         ██████████████░░░░░░░░░░░   54.14 % 
-🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌞 Morning                55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+🌆 Daytime                440 commits         ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌃 Evening                709 commits         █████████████░░░░░░░░░░░░   53.88 % 
+🌙 Night                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Tuesday                  377 commits         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Thursday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Friday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Saturday                 130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Tuesday                  371 commits         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+Wednesday                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Thursday                 184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Friday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Saturday                 123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Sunday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
 
@@ -92,11 +92,11 @@ Mac                      49 mins             ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+HCL                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
