@@ -30,9 +30,9 @@ An engineer from Africa  💻  worked for a while in Europe, currently living in
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devqik&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -75,18 +75,18 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.78 % 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Bash                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+TypeScript               1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   33.68 % 
+Markdown                 51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🔥 Editors: 
-Agent                    3 hrs 6 mins        ██████████████████░░░░░░░   71.38 % 
-Cursor                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Agent                    3 hrs 6 mins        ████████████████░░░░░░░░░   63.81 % 
+Cursor                   1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   36.19 % 
 
 💻 Operating System: 
-Mac                      4 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
