@@ -75,18 +75,18 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   33.68 % 
-Markdown                 51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+TypeScript               59 mins             █████████░░░░░░░░░░░░░░░░   36.00 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🔥 Editors: 
-Agent                    3 hrs 6 mins        ████████████████░░░░░░░░░   63.81 % 
-Cursor                   1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   36.19 % 
+Cursor                   1 hr 31 mins        ██████████████░░░░░░░░░░░   55.09 % 
+Agent                    1 hr 14 mins        ███████████░░░░░░░░░░░░░░   44.91 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
